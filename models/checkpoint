@@ -1,0 +1,2 @@
+model_checkpoint_path: "20.51_13_men_15_lstm_3_dense_3_units_32"
+all_model_checkpoint_paths: "20.51_13_men_15_lstm_3_dense_3_units_32"
